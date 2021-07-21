@@ -22,3 +22,11 @@ Normalizing styles have been helped along thanks to the fine work of
 Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 */
 
+@import './reset';
+@import './bootstrap/scss/bootstrap.scss';
+@import './bootstrap/variables-bootswatch';
+@import './bootstrap/bootswatch';
+
+// * {
+//   border: 1px solid red;
+// }
